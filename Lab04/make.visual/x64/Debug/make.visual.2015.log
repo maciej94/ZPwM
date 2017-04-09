@@ -1,28 +1,3 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-  main.cpp
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(100): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(111): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(122): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(133): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(144): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(156): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(167): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(178): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(189): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(200): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(211): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(241): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(252): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(263): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(274): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(285): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(297): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(308): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(319): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(330): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(341): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(352): warning C4553: '==': operator has no effect; did you intend '='?
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(648): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\zaawansowane programowanie\git\zpwm\lab04\source\main.cpp(641): warning C4715: 'DialogProc': not all control paths return a value
   make.visual.2015.vcxproj -> C:\Zaawansowane programowanie\git\ZPwM\Lab04\make.visual\\..\bin\App.exe
   make.visual.2015.vcxproj -> C:\Zaawansowane programowanie\git\ZPwM\Lab04\make.visual\\..\bin\App.pdb (Full PDB)
