@@ -133,6 +133,8 @@
     <ClInclude Include="..\source\res.h" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\icon1.ico" />
+    <Image Include="..\..\..\..\icon2.ico" />
     <Image Include="..\..\..\..\ikona16x16.ico" />
     <Image Include="..\..\..\..\ikona32x32.ico" />
   </ItemGroup>
