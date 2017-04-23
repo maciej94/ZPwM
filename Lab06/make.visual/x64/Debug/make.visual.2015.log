@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\zaawansowane programowanie\git\zpwm\lab06\source\main.cpp(171): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab06\source\main.cpp(183): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab06\source\main.cpp(203): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab06\source\main.cpp(215): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab06\source\main.cpp(238): warning C4311: 'type cast': pointer truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+c:\zaawansowane programowanie\git\zpwm\lab06\source\main.cpp(238): warning C4302: 'type cast': truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+c:\zaawansowane programowanie\git\zpwm\lab06\source\main.cpp(238): warning C4312: 'type cast': conversion from 'LONG' to 'WNDPROC' of greater size
+  make.visual.2015.vcxproj -> C:\Zaawansowane programowanie\git\ZPwM\Lab06\make.visual\\..\bin\App.exe
+  make.visual.2015.vcxproj -> C:\Zaawansowane programowanie\git\ZPwM\Lab06\make.visual\\..\bin\App.pdb (Full PDB)
