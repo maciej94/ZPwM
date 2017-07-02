@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(166): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(164): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(164): note: consider using '%lld' in the format string
+  c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(164): note: consider using '%Id' in the format string
+  c:\zaawansowane programowanie\git\zpwm\lab10_zrownoleglenie\source\main.cpp(164): note: consider using '%I64d' in the format string
+  make.visual.2015.vcxproj -> C:\Zaawansowane programowanie\git\ZPwM\Lab10_zrownoleglenie\make.visual\\..\bin\App.exe
+  make.visual.2015.vcxproj -> C:\Zaawansowane programowanie\git\ZPwM\Lab10_zrownoleglenie\make.visual\\..\bin\App.pdb (Full PDB)
