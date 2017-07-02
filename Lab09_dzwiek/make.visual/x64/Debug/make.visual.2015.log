@@ -1,0 +1,59 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(35): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(59): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(145): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(151): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(151): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(151): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(152): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(152): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(153): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(153): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(153): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(154): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(154): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(155): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(155): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(155): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(156): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(156): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(157): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(157): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(157): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(158): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(158): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(158): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(159): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(159): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(159): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(160): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(160): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(160): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(161): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(161): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(161): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(162): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(162): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(162): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(163): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(163): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(164): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(164): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(164): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(165): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(165): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(165): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(166): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(166): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(166): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(167): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(167): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(167): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\zaawansowane programowanie\git\zpwm\lab09_dzwiek\source\main.cpp(269): warning C4305: 'argument': truncation from 'double' to 'float'
+  make.visual.2015.vcxproj -> C:\Zaawansowane programowanie\git\ZPwM\Lab09_dzwiek\make.visual\\..\bin\App.exe
+  make.visual.2015.vcxproj -> C:\Zaawansowane programowanie\git\ZPwM\Lab09_dzwiek\make.visual\\..\bin\App.pdb (Full PDB)
